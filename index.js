@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
   } else if (string === "thirsty") {
     return ("I can\'t hear you!")
   } else if {string === ) {
-    return ("Reading newspaper.")
+    return ("YES INDEED!")
   }
 }
 it('returns "I can\'t hear you!" if `string` is lowercase', function() {
