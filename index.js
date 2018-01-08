@@ -15,11 +15,10 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-var string
   if (string === "I love you, Grandma.") {
     return ("I love you too.")
   } else if (string === "thirsty") {
-    console.log("Refilling water bowl.")
+    return ("Refilling water bowl.")
   } else {
     console.log("Reading newspaper.")
   }
