@@ -15,7 +15,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-    var dog = "thirsty"
+    var string = "thirsty"
  
   if (dog === "hungry") {
     console.log("Refilling food bowl.")
