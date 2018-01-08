@@ -18,9 +18,9 @@ function sayHiToGrandma(string) {
   if (string === "I love you, Grandma.") {
     return ("I love you too.")
   } else if (string === "thirsty") {
-    return ("Refilling water bowl.")
-  } else {
-    console.log("Reading newspaper.")
+    return ("I can\'t hear you!")
+  } else if {string === ) {
+    return ("Reading newspaper.")
   }
 }
 it('returns "I can\'t hear you!" if `string` is lowercase', function() {
